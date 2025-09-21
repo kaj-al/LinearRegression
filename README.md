@@ -8,6 +8,6 @@ Main goal is to understand how regression works mathematically without relying o
 
  # Concept-
 Linear Regression is a supervised learning algorithm used to predict a dependent variable (y) based on independent variable (x).
-# Hypothesis function
-# Cost Function (Mean Squared Error)
-# Gradient Descent Update Rules
+Hypothesis function
+Cost Function (Mean Squared Error)
+Gradient Descent Update Rules
